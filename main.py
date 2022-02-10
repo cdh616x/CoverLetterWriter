@@ -9,5 +9,5 @@ with open("company.txt") as letter_file:
     for i in list:
         x = letter_contents.replace("[name]", i)
         print(f"{x}\n\n")
-        with open(f"{i}.txt", mode="w") as comp_letter:
+        with open(f"./output/{i}.txt", mode="a") as comp_letter:
             comp_letter.write(x)
