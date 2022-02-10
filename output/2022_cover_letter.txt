@@ -1,4 +1,4 @@
-Dear [company_name] Recruiting Team,
+Dear asf Recruiting Team,
 
 Greetings! My name is Collin Hooper and I am very excited that icon group has an open position for [open_position]! I have been looking for opportunities such as this to gain entry level access to the industry, as well as to further my knowledge of programming with real-world examples and hands-on experience! I still have a lot to learn, but I am equipped with strong understanding regarding the foundations of the World Wide Web, specifically, web development technologies like HTML5, CSS3, and JavaScript, as well as experience with front end frameworks and libraries like React and Bootstrap5. In addition to this experience, I also have a knowledgable understanding of Python and the R-Studio framework. Even with these competencies, I know I have a half-of-a-million more things to acquaint myself with, but I have been able to produce some interesting, beautiful projects with the expertise that I already possess, like building a website for a friend, or building a responsive online drum kit (I also have a deep-running passion for music!) These projects can be found on my personal webpage: https://www.cdhcreate.com - !
 
@@ -8,7 +8,7 @@ Even as I write this, I am working through courses on Udemy to further my unders
 
 In summation, I am a young, budding programmer searching for my first programming job. I possess knowledge and skills that I know will make me a powerful asset to your team. When in doubt, I understand what resources are available to me and how to use them effectively. I am a hard worker, yearning to increase the depths of my programming knowledge. I know that hands-on experience and training will only make me more effective, increasing my value within your team.
 
-That all being said, I would like to prove to you in-person why I am the correct individual for this position. You can reach out to me in a number of ways; my email is cdhprof@gmail.com, my cell-phone number is +1.616.633.3488. I look forward to being able to prove my worth to you and [company_name]!
+That all being said, I would like to prove to you in-person why I am the correct individual for this position. You can reach out to me in a number of ways; my email is cdhprof@gmail.com, my cell-phone number is +1.616.633.3488. I look forward to being able to prove my worth to you and asf!
 
 Thank you for your time!
 
