@@ -1,10 +1,13 @@
-with open("company.txt", mode="r") as f:
-    read = (f.read())
-    print(read)
-    with open("lucky.txt", mode="a") as f:
-        x = input("What word would you like to replace?")
-        y = input("What would would you like to replace it with?")
-        z = input("What file name would you like to save it under?")
-        new_read = read.replace(x, y)
-        with open(f"{z}.txt", mode="w") as f:
-            f.write(new_read)
+list = ["Lucky", "Collin", "Sixes"]
+
+print(list)
+
+PLACEHOLDER = "[name]"
+
+with open("company.txt") as letter_file:
+    letter_contents = letter_file.read()
+    for i in list:
+        x = letter_contents.replace("[name]", i)
+        print(f"{x}\n\n")
+        with open(f"{i}.txt", mode="w") as comp_letter:
+            comp_letter.write(x)
