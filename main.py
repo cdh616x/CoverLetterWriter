@@ -24,11 +24,14 @@ subject = str(input("What would you like to prefix the file's name with?"))
 create_new_coverletter(subject)
 
 position_title = str(input("What is the name of the position you are applying for?"))
+
 if position_title == "":
     print("Need position name; try again!")
     quit()
-file_name = str(input("What is the name of the file?"))
+
+file_name = str(input("What is the name of the file? (*prefix*_cover_letter") + "_cover_letter.txt")
 if file_name == "":
     print("Need file name; try again!")
     quit()
+
 replace_position(position_title, "./output/" + file_name)
